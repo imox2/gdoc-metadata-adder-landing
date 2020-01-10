@@ -55,7 +55,8 @@ a {
 .color-black {
   color: black
 }
-.color-black:hover { color: #00FF00; }
+.icon-cloud-download { color: #FF0000; } /* CSS link color (red) */
+.icon-cloud-download:hover { color: #00FF00; }
 
 p {
   margin-bottom: 20px; }
