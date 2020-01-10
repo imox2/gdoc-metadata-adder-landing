@@ -52,6 +52,10 @@ a {
     outline: none;
     text-decoration: none; }
 
+.color-black {
+  color: black;
+}
+
 p {
   margin-bottom: 20px; }
 
