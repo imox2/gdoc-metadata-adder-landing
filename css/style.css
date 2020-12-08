@@ -56,7 +56,7 @@ a {
   color: black
 }
 .icon-cloud-download { color: black; }
-.icon-cloud-download:hover { color: #071553; }
+.icon-cloud-download:hover { color: white; }
 
 p {
   margin-bottom: 20px; }
